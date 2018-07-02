@@ -8,7 +8,7 @@ in addition to all the development headers required by Guile.
 
 It should be possible to build it on Linux, but then the Makefile would need to be adjusted.
 
-Running the example in Guile requires presence of the [(grand scheme) glossary][https://github.com/plande/grand-scheme].
+Running the example in Guile requires presence of the [(grand scheme) glossary](https://github.com/plande/grand-scheme).
 
 I've found [two](https://github.com/te42kyfo/hesp/tree/master/guile-opencl) 
 [projects](https://github.com/v01dXYZ/gocl) named "guile-opencl" on the Internet,
